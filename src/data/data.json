@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "title": "Marciela Flores",
+    "paragraph": "Advocacia e Consultoria Jurídica"
+  },
+  "About": {
+    "paragraph": "Sou advogada formada em 2014 pela Faculdade e Colégio Sinergia, com 10 anos de experiência em Direito Previdenciário e Trabalhista. Atuo como mentora de advogados em BPC LOAS, compartilhando meu conhecimento para fortalecer a prática jurídica. Meu trabalho é pautado por ética, técnica e empatia, garantindo um atendimento humano e voltado às necessidades de cada cliente. Acredito no poder do diálogo e em soluções personalizadas para proteger direitos e alcançar resultados justos. Meu compromisso é transformar desafios em oportunidades para um futuro mais seguro.",
+    "Why": [
+      "Compromisso com ética",
+      "Atendimento personalizado",
+      "Soluções eficientes sempre",
+      "Experiência comprovada"
+    ],
+    "Why2": [
+      "Atualização constante",
+      "Empatia em cada caso",
+      "Foco em resultados",
+      "Suporte jurídico completo"
+    ]
+  },
+  "Mentoria": {
+    "title": "",
+    "paragraph": "Com minha experiência, vou te ensinar como garantir o benefício de forma simples e direta.",
+    "learnList1": [
+      "BPC Loas na prática:",
+      "O que é e quem tem direito.",
+      "Como calcular a renda per capita.",
+      "A importância do CRAS, grupo familiar e organização documental."
+    ],
+    "learnList2": [
+      "Estratégia e prática:",
+      "Como montar um pedido completo e eficiente.",
+      "Identificar os erros mais comuns e evitá-los.",
+      "Resolver indeferimentos e garantir a concessão."
+    ],
+    "forWhom": [
+      "Advogados e profissionais que querem lucrar ajudando pessoas a conquistarem seus direitos.",
+      "Quem deseja aprender um método prático e direto para solicitar o BPC/LOAS com segurança.",
+      "Encontros online: São 4 sessões práticas, sem enrolação e direto ao ponto."
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-gavel",
+      "name": "Direito de Família: Proteção às Relações e aos Direitos Familiares",
+      "text": "O Direito de Família é o ramo do Direito que regula as relações pessoais e patrimoniais no âmbito familiar, assegurando a proteção e o equilíbrio em situações que envolvem vínculos afetivos e questões patrimoniais."
+     
+    },
+    
+    {
+      "icon": "fa fa-check-square-o",
+      "name": "Direito Previdenciário",
+      "text": "Um dos ramos mais relevantes do Direito, especialmente por seu caráter social e pela importância de seus benefícios para a dignidade humana. Esta área abrange aposentadorias, BCP, auxílio-doença e auxílio-acidente, salário-maternidade e salário-família, pensão por morte e auxílio-reclusão."
+    },
+    {
+      "icon": "fa fa-university",
+      "name": "Direito Civil: Regulando Relações e Protegendo Direitos",
+      "text": "O Direito Civil é o ramo do Direito que regula as relações jurídicas entre pessoas, sejam elas físicas ou jurídicas, públicas ou privadas. Ele é a base das interações sociais e econômicas, assegurando direitos e deveres essenciais para a convivência em sociedade."
+    }
+  ],
+  "Contact": {
+    "address": "Edificio Accqua Maryne - R. Victor Konder, 150, Navegantes, SC.",
+    "phone": "+55 47 99786-2286",
+    "email": "marcielaflores@hotmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Acompanhamento Transparente",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-check-square-o",
+      "title": "Especialização Exclusiva em Aposentadorias",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-gavel",
+      "title": "+ 10 anos de expêriencia",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "5.000 + clientes satisfeitos",
+      "text": ""
+    }
+  ]
+}
