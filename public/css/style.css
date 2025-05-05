@@ -241,7 +241,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/2.png) center center no-repeat;   /* background-image!!!! */
+  background: url(../img/2.png) center center no-repeat;   
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;

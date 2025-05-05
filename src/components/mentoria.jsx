@@ -8,7 +8,7 @@ export const Mentoria = (props) => {
         <div className="container">
           <div className="row">
             <div className="col-xs-12 col-md-6">
-              <img src="img/5.png" className="img-responsive" alt="Mentoria" />
+            <img src={`${process.env.PUBLIC_URL}/img/5.png`} className="img-responsive" alt="Mentoria" />
             </div>
             <div className="col-xs-12 col-md-6">
               <div className="about-text">
