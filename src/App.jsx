@@ -30,6 +30,18 @@ const App = () => {
       <Services data={landingPageData.Services} />
       <Mentoria data={landingPageData.Mentoria} />
       <Contact data={landingPageData.Contact} />
+     <a
+        href="https://wa.me/5547997862286" 
+        className="whatsapp-float"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img
+          src="https://cdn-icons-png.flaticon.com/512/733/733585.png"
+          alt="WhatsApp Chat"
+          className="whatsapp-icon"
+        />
+    </a>
     </div>
   );
 };

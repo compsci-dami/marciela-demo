@@ -7,7 +7,8 @@ export const Header = (props) => {
         <div className="overlay">
           <div className="container">
             <div className="row">
-              <div className="col-md-8 col-md-offset-2 intro-text">
+              <div id="header-container"className="col-md-8 col-md-offset-2 intro-text">
+              <img src="/img/balanca.png" alt="Logo da Balança" className="logo" />
                 <h1>
                   {props.data ? props.data.title : "Loading"}
                   <span></span>
