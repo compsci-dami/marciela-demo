@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/marciela-demo/static/css/main.ae42ac5f.css",
-    "main.js": "/marciela-demo/static/js/main.6c39bb57.js",
+    "main.js": "/marciela-demo/static/js/main.d972436c.js",
     "index.html": "/marciela-demo/index.html",
     "main.ae42ac5f.css.map": "/marciela-demo/static/css/main.ae42ac5f.css.map",
-    "main.6c39bb57.js.map": "/marciela-demo/static/js/main.6c39bb57.js.map"
+    "main.d972436c.js.map": "/marciela-demo/static/js/main.d972436c.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.6c39bb57.js"
+    "static/js/main.d972436c.js"
   ]
 }
