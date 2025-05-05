@@ -1,5 +1,6 @@
 import React from "react";
 
+
 export const Header = (props) => {
   return (
     <header id="header">
@@ -8,7 +9,7 @@ export const Header = (props) => {
           <div className="container">
             <div className="row">
               <div id="header-container"className="col-md-8 col-md-offset-2 intro-text">
-              <img src="/img/balanca.png" alt="Logo da Balança" className="logo" />
+              <img src="../img/balanca.png" alt="Logo da Balança" className="logo" />
                 <h1>
                   {props.data ? props.data.title : "Loading"}
                   <span></span>
