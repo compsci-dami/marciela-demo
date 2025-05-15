@@ -30,7 +30,8 @@ const App = () => {
       <Services data={landingPageData.Services} />
       <Mentoria data={landingPageData.Mentoria} />
       <Contact data={landingPageData.Contact} />
-     <a
+
+    <a
         href="https://wa.me/5547997862286" 
         className="whatsapp-float"
         target="_blank"
@@ -42,6 +43,7 @@ const App = () => {
           className="whatsapp-icon"
         />
     </a>
+     
     </div>
   );
 };
